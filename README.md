@@ -1,9 +1,10 @@
 ## 📸 **Demonstração**  
 
-<img src="https://cdn.discordapp.com/attachments/1225612992201363552/1320153058532921365/99.png?ex=67688fd8&is=67673e58&hm=3a9ffd50d33ae5fcbf1633e1d75ccd03beac43c209802ceccebec8ae5e6905a8&"/>
-<img src="https://cdn.discordapp.com/attachments/1225612992201363552/1320153058033795192/333.png?ex=67688fd8&is=67673e58&hm=25d971699373ab1901f2278f0e5b4775611dd9e2690c9ac15574e6c49a41df80&"/>
+<img src="https://github.com/Hernandessn/carrosel-belezas-do-piaui/blob/main/img/screenshot/3.png?raw=true"/>
+<img src="https://github.com/Hernandessn/carrosel-belezas-do-piaui/blob/main/img/screenshot/2.png?raw=true"/>
+<img src="https://github.com/Hernandessn/carrosel-belezas-do-piaui/blob/main/img/screenshot/1.png?raw=true"/>
 
-# 🖼️ **Carrossel: Belezas do Piauí**  
+## 🖼️ Carrossel: Belezas do Piauí 
 
 Este projeto apresenta um carrossel interativo que destaca as belezas naturais e culturais do estado do Piauí. Desenvolvido com **HTML**, **CSS** e **JavaScript**, o carrossel permite navegar por imagens incríveis que representam o melhor do estado.  
 
